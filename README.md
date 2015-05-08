@@ -2,6 +2,11 @@
 
 Disables Android's "swipe up on home to search" gesture.
 
+## Download
+
+Download a pre-built APK [here](https://bitbucket.org/crossbowffs/emptyswipe/downloads/EmptySwipe.apk), 
+or build the app yourself (it only takes a few seconds!)
+
 ## Installation
 
 Install, reboot, enjoy! No configuration required!
