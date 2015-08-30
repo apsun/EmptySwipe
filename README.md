@@ -3,11 +3,6 @@
 Disables Android's "swipe up on home to search" gesture. If you have GravityBox, you can get the same 
 functionality through `Navigation bar tweaks` -> `Disable navigation ring`.
 
-## Download
-
-Download a pre-built APK [here](https://bitbucket.org/crossbowffs/emptyswipe/downloads/EmptySwipe.apk), 
-or build the app yourself (it only takes a few seconds!)
-
 ## Installation
 
 Install, reboot, enjoy! No configuration required!
